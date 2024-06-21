@@ -1,5 +1,17 @@
 # @capacitor-firebase/firestore
 
+## 6.1.0
+
+### Minor Changes
+
+- [`7c33d62`](https://github.com/capawesome-team/capacitor-firebase/commit/7c33d625e16f525122114e524e829b45bce23189) ([#643](https://github.com/capawesome-team/capacitor-firebase/pull/643)): feat: support batched writes
+
+* [`5ff6573`](https://github.com/capawesome-team/capacitor-firebase/commit/5ff6573d80f5f76630ecfa2b007dfb205f44f40f) ([#646](https://github.com/capawesome-team/capacitor-firebase/pull/646)): feat: add `addCollectionGroupSnapshotListener(...)` method
+
+### Patch Changes
+
+- [`f597638`](https://github.com/capawesome-team/capacitor-firebase/commit/f597638391c41d8990e1e3d5a7fd5a897fe12337) ([#642](https://github.com/capawesome-team/capacitor-firebase/pull/642)): chore(deps): update Firebase iOS SDK to 10.25
+
 ## 6.0.0
 
 ### Major Changes
